@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="999" name="Clear" modified="2022" author="nmahoude" >
+    <background color="#F9F9F9" />
+    <currentLine color="#F0F0F0" />
+    <lineNumber color="#BBBBBB" />
+
+
+    <parameterVariable color="#6e1c78" bold="false" />
+    <localVariable color="#6e1c78" bold="false" italic="false" underline="false" strikethrough="false" />
+    <localVariableDeclaration color="#6e1c78" bold="false" />
+    <field color="#6e1c78" />
+    <staticField color="#6e1c78" bold="false" />
+    <staticFinalField color="#6e1c78" />
+    <constant color="#6e1c78" />
+
+    <annotation color="#b49332" bold="false" />
+
+
+	<!-- methods -->
+	<staticMethod color="#427f94" bold="false" />
+    <method color="#427f94" bold="false" />
+    <methodDeclaration color="#427f94" bold="false" />
+    <inheritedMethod color="#427f94" />
+
+	<!-- objects --> 
+    <class color="#030203" />
+	<deprecatedMember color="#030203" bold="false" />
+	<abstractMethod color="#030203" />
+    <interface color="#030203" />
+    <enum color="#030203" bold="false" />
+    <typeArgument color="#030203" />
+    <foreground color="#030203" />
+    <typeParameter color="#030203" />
+
+
+    <keyword color="#1e3aad" bold="false" italic="false" underline="false" strikethrough="false" />
+
+
+    <bracket color="#030203" bold="false" />
+    <number color="#1e3aad" bold="false" />
+    <string color="#2d9b15" underline="false" strikethrough="false" />
+    <operator color="#030203" bold="false" />
+
+	<!-- Selection -->
+    <selectionBackground color="#a7d1ff" />
+    <selectionForeground color="#234469" />
+    
+	<!-- searches -->
+	<occurrenceIndication color="#f0f0f0" />
+    <writeOccurrenceIndication color="#E0E0E0" />
+    <searchResultIndication color="#1e3aad" />
+    <filteredSearchResultIndication color="#1e3aad" />
+
+
+	<!-- comments -->
+    <singleLineComment color="#999999" bold="false" italic="true" underline="false" strikethrough="false" />
+    <multiLineComment color="#999999" bold="false" italic="true" underline="false" strikethrough="false" />
+    <commentTaskTag color="#999999" bold="false" italic="false" underline="true" strikethrough="false" />
+
+	<!-- javadoc -->
+	<javadoc color="#999999" bold="false" italic="true" />
+    <javadocLink color="#AD95AF" bold="false" italic="true" />
+    <javadocTag color="#566874" bold="false" italic="true" />
+    <javadocKeyword color="#CC9393" bold="false" underline="false" strikethrough="false" />
+
+
+
+
+	<!-- not chosen yet -->
+
+	
+    <findScope color="#FF0000" />
+    <deletionIndication color="#FF0000" />
+    <sourceHoverBackground color="#FF0000" />
+    
+
+    
+</colorTheme>
